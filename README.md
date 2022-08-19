@@ -1,6 +1,6 @@
 # INVENTORY-MANAGEMENT-SYSTEM-I4-IN-JAVA-
 
-The Inventory Management System makes use of the SQL database to store and retrieve information relevant to the product, customer, category, and order details. This system consists of separate pages to manage these categories ie Product, Category, Order, and Customer. Moreover, the system can help the users to log in through different usernames and corresponding passwords which could be managed via the User page.
+Our inventory management is to help businesses easily and efficiently manage the ordering, stocking, storing, and using of inventory.
 
 # This is a Desktop Application
 
